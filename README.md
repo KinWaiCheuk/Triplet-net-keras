@@ -1,2 +1,31 @@
 # Triplet-net-keras
 Implementation of Triplet Neural Network on keras
+
+This code is inspired from adambielski's github repository https://github.com/adambielski/siamese-triplet, who implement the Triplet Neural Network on PyTorch.
+
+# Dependencies
+Tensorflow 1.5
+
+keras 2.2
+
+sklearn 0.19.1
+
+matplotlib 2.2.2
+
+seaborn 0.9
+
+# Instruction
+All the required codes are contained inside the jupyter-notebook
+
+# Summary
+
+### The data distribution of raw MNIST dataset
+Before using the Triplet Neural Network, the raw date distribution looks like this:
+
+![alt text](https://raw.githubusercontent.com/KinWaiCheuk/Triplet-net-keras/master/train_before.png)
+![alt test](https://raw.githubusercontent.com/KinWaiCheuk/Triplet-net-keras/master/test_before.png)
+
+### The data distribution of MNIST dataset after applying Triplet Neural Newtork
+After using the Tiplet Neural Network, the dataset forms different clusters according to their classes
+![alt test](https://raw.githubusercontent.com/KinWaiCheuk/Triplet-net-keras/master/train_after.png)
+![alt_test](https://raw.githubusercontent.com/KinWaiCheuk/Triplet-net-keras/master/test_after.png)
