@@ -1,7 +1,7 @@
 # Triplet-net-keras
 Implementation of Triplet Neural Network on keras
 
-This code is inspired from adambielski's github repository https://github.com/adambielski/siamese-triplet, who implement the Triplet Neural Network on PyTorch, and also this Kaggle example https://www.kaggle.com/guichristmann/training-a-triplet-loss-model-on-mnist by Guilherme Christmann who use tensorflow to implement the triplet net.
+This code is inspired from adambielski's github repository https://github.com/adambielski/siamese-triplet, who implements the Triplet Neural Network on PyTorch, and also this Kaggle example https://www.kaggle.com/guichristmann/training-a-triplet-loss-model-on-mnist by Guilherme Christmann who uses tensorflow to implement the triplet net.
 
 # Dependencies
 Tensorflow 1.5
