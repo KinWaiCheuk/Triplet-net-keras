@@ -1,7 +1,7 @@
 # Triplet-net-keras
 Implementation of Triplet Neural Network on keras.
 
-My **PyTorch** implmentation with online mining is avaliable [here](https://github.com/KinWaiCheuk/Triplet-net-pytorch)
+My **PyTorch** implmentation with online mining is avaliable [here](https://github.com/KinWaiCheuk/pytorch-triplet-loss)
 
 This code is inspired by adambielski's [github repository](https://github.com/adambielski/siamese-triplet), who implements the Triplet Neural Network on PyTorch, and also this [Kaggle example](https://www.kaggle.com/guichristmann/training-a-triplet-loss-model-on-mnist) by Guilherme Christmann who uses tensorflow to implement the triplet net.
 
